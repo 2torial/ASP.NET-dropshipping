@@ -1,7 +1,14 @@
 # Internet Store ASP.NET Project based on Dropshipping Model
-This is a back-end oriented project with frontent built from scratch to fit the purpose. \
+This is a back-end oriented project written in C# using ORM library to connect to PostgreSQL database. \
+Front-end was built from scratch using React.js library to fit the purpose. \
+\
+<img height="230" alt="witryna" src="https://github.com/user-attachments/assets/c75e43de-9a89-44de-b1e6-59d1487a2376" />
+<img height="230" alt="rejestracja" src="https://github.com/user-attachments/assets/17e0224a-ad2b-4f68-aa7d-9fa00705f46c" /> \
+<img height="250" alt="baza-dostawcy" src="https://github.com/user-attachments/assets/bbed902b-19c5-474e-8c8c-7e670b42decd" />
+<img height="250" alt="uml-baza-dostawcow" src="https://github.com/user-attachments/assets/dfd40320-429d-4ca9-9cb1-7b67d5d5297b" />
 
 ## Milestones
+
 All expected features has been implemented, current work revolves around fixing bugs and upgrades. \
 ✅ Searchbar \
 ✅ Filters \
