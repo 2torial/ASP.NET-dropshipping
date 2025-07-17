@@ -1,5 +1,5 @@
 # Internet Store ASP.NET Project based on Dropshipping Model
-This is a back-end oriented project with frontent built from scratch to fit the purpose.
+This is a back-end oriented project with frontent built from scratch to fit the purpose. \
 
 ## Milestones
 All expected features has been implemented, current work revolves around fixing bugs and upgrades. \
@@ -15,7 +15,9 @@ All expected features has been implemented, current work revolves around fixing 
 ✅ Product view page \
 ✅ UI changes \
 ✅ Proper JWT handling \
-⏳ Server-side tests
+✅ Server-side test enviornment
+⏳ Integration tests
+⏳ Test automatization (GitHub Actions + Docker)
 
 ## Technologies Used
 - ASP.NET Core 8
@@ -36,8 +38,8 @@ All expected features has been implemented, current work revolves around fixing 
 - React Router
 - Vite
 
-### Testing
-Carried out using NUnit.
+### Testing and CI/CD
+Carried out using NUnit and GitHub Actions (Docker).
 
 ### Set Up
 Project requires to Add-Migration, Update-Database through Entity Framework to work if it's run for the first time (database is going to be named *Store*).
