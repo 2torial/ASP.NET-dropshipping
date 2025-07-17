@@ -1,4 +1,4 @@
-# Internet Store ASP.NET Project based on Dropshipping Model
+# Internet Dropshipping Store ASP.NET Project
 This is a back-end oriented project written in C# using ORM library to connect to PostgreSQL database. \
 Front-end was built from scratch using React.js library to fit the purpose. \
 \
@@ -54,4 +54,4 @@ Program requires the user to input correct database login and password in the ap
 There are two preset site accounts: user (password: user) and root (password: root), along other mockup data included.
 
 ## Contributors
-Daniel Boguszewski (315942)
+Daniel Boguszewski
