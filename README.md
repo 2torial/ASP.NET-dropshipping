@@ -17,8 +17,8 @@ All expected features has been implemented, current work revolves around fixing 
 ✅ Product view page \
 ✅ UI changes \
 ✅ Proper JWT handling \
-✅ Server-side test enviornment
-⏳ Integration tests
+✅ Server-side test enviornment \
+⏳ Integration tests \
 ⏳ Test automatization (GitHub Actions + Docker)
 
 ## Technologies Used
